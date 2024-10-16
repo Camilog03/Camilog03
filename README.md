@@ -4,7 +4,7 @@
 <img src="https://github.com/iBlacKings/iBlacKings/blob/main/T%C3%ADtulo%20secundario.jpg?raw=true">
 
 
-##About me
+## About me
 <!--
 **iBlacKings/iBlacKings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
