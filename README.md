@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Camilo Gil</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/xdZTUt2">
+<img src="https://ibb.co/89tPgnb">
 
 
 ##About me
