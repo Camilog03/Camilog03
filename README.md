@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Camilo Gil</a> 👋</h1>
 </div>
-<img src="https://ibb.co/89tPgnb">
+<img src="https://github.com/iBlacKings/iBlacKings/blob/main/T%C3%ADtulo%20secundario.jpg?raw=true">
 
 
 ##About me
