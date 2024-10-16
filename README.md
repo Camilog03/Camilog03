@@ -4,7 +4,10 @@
 <img src="https://github.com/iBlacKings/iBlacKings/blob/main/T%C3%ADtulo%20secundario.jpg?raw=true">
 
 
-## About me
+## About me 🤓☝️
+- **Programming languages**: C++, Kotlin, Python, and a bit of JavaScript.
+- **Tools**: Visual Studio, Git, g++ (MSYS2), Linux environments (Kali Linux), and more.
+- **Soft Skills**: Excellent communication, team collaboration, and organizational skills
 <!--
 **iBlacKings/iBlacKings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
