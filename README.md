@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hi, I'm Camilo Gil</a> 👋</h1>
 </div>
-<img src="https://github.com/iBlacKings/iBlacKings/blob/main/T%C3%ADtulo%20secundario.jpg?raw=true">
+<img src="https://github.com/user-attachments/assets/2f44d47c-256e-4e13-897a-8520a2b82640">
+
 
 
 ## About Me 🤓☝️
